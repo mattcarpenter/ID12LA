@@ -2,9 +2,10 @@
 
 ### Getting Started on the BeagleBone Black
 
+Pin Assignments: 
 * Red wire -> P9.3 (3.3v)
 * Gray wire -> P9.1 (Gnd)
-*Orange wire -> P9.26 (UART1 Rx)
+* Orange wire -> P9.26 (UART1 Rx)
 
 
 UART1 must be enabled on the BBB. This may be done at boot time using the following instructions:
