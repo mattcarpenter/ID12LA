@@ -1,6 +1,6 @@
-# ID-12LA RFID Card Reader
+# ID-12LA RFID Card Reader - UART Example
 
-## Getting Started on the BeagleBone Black
+### Getting Started on the BeagleBone Black
 
 Red wire -> P9.3 (3.3v)
 Gray wire -> P9.1 (Gnd)
@@ -22,7 +22,7 @@ To enable UART1 manually, execute the following commands:
 > cat /sys/devices/bone_capemgr.*/slots
 ```
 
-## Running
+### Running
 
 ```
 node index.js
