@@ -21,3 +21,9 @@ To enable UART1 manually, execute the following commands:
 # Verify overlay added
 > cat /sys/devices/bone_capemgr.*/slots
 ```
+
+## Running
+
+```
+node index.js
+```
